@@ -1,4 +1,4 @@
-hi there!
+<h3>hi there!</h3>
 
-i made this for my practice i hope you like it. its a tui easy to use vim-like editor
-open with ./aon
+<p>i made this for practice and hobby. i write whole app in one file and it is 
+made for linux. you need to give permission to run app. open with ./aon</p>
